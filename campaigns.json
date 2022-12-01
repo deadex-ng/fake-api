@@ -1,0 +1,22 @@
+{
+    "campaigns": [
+      {
+        "id": 1,
+        "hash": "QmatxCpjs78AxBN9yxT8JCVKbZHWVowHSMMRgQQ7Y5JSYj",
+        "owner": "0xb9e6b35A73bdEcbEdBfe4b562CAd3c0ee6d8d43A",
+        "donors": 1,
+        "target": 2,
+        "donated": 20000000000000000,
+        "milestone": null
+      },
+      {
+        "id": 2,
+        "hash": "QmatxCpjs78AxBN9yxT8JCVKbZHWVowHSMMRgQQ7Y5JSYj",
+        "owner": "0xb9e6b35A73bdEcbEdBfe4b562CAd3c0ee6d8d43A",
+        "donors": 2,
+        "target": 2,
+        "donated": 40000000000000000,
+        "milestone": null
+      }
+    ]
+  }
